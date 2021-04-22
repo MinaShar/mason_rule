@@ -1,0 +1,20 @@
+c:\users\m\documents\visual studio 2015\Projects\maisons_rule\maisons_rule\bin\Debug\maisons_rule.exe.config
+c:\users\m\documents\visual studio 2015\Projects\maisons_rule\maisons_rule\bin\Debug\maisons_rule.exe
+c:\users\m\documents\visual studio 2015\Projects\maisons_rule\maisons_rule\bin\Debug\maisons_rule.pdb
+c:\users\m\documents\visual studio 2015\Projects\maisons_rule\maisons_rule\obj\Debug\maisons_rule.csprojResolveAssemblyReference.cache
+c:\users\m\documents\visual studio 2015\Projects\maisons_rule\maisons_rule\obj\Debug\maisons_rule.Form1.resources
+c:\users\m\documents\visual studio 2015\Projects\maisons_rule\maisons_rule\obj\Debug\maisons_rule.Properties.Resources.resources
+c:\users\m\documents\visual studio 2015\Projects\maisons_rule\maisons_rule\obj\Debug\maisons_rule.csproj.GenerateResource.Cache
+c:\users\m\documents\visual studio 2015\Projects\maisons_rule\maisons_rule\obj\Debug\maisons_rule.exe
+c:\users\m\documents\visual studio 2015\Projects\maisons_rule\maisons_rule\obj\Debug\maisons_rule.pdb
+C:\Users\m\Documents\Visual Studio 2015\Projects\maisons_rule\maisons_rule\obj\Debug\maisons_rule.Form2.resources
+C:\Users\m\Downloads\maisons_rule\maisons_rule\bin\Debug\maisons_rule.exe.config
+C:\Users\m\Downloads\maisons_rule\maisons_rule\obj\Debug\maisons_rule.exe
+C:\Users\m\Downloads\maisons_rule\maisons_rule\obj\Debug\maisons_rule.pdb
+C:\Users\m\Downloads\maisons_rule\maisons_rule\bin\Debug\maisons_rule.exe
+C:\Users\m\Downloads\maisons_rule\maisons_rule\bin\Debug\maisons_rule.pdb
+C:\Users\m\Downloads\maisons_rule\maisons_rule\obj\Debug\maisons_rule.csprojResolveAssemblyReference.cache
+C:\Users\m\Downloads\maisons_rule\maisons_rule\obj\Debug\maisons_rule.Form1.resources
+C:\Users\m\Downloads\maisons_rule\maisons_rule\obj\Debug\maisons_rule.Form2.resources
+C:\Users\m\Downloads\maisons_rule\maisons_rule\obj\Debug\maisons_rule.Properties.Resources.resources
+C:\Users\m\Downloads\maisons_rule\maisons_rule\obj\Debug\maisons_rule.csproj.GenerateResource.Cache
